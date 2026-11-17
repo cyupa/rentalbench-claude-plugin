@@ -1,0 +1,13 @@
+{
+  "name": "rentalbench",
+  "displayName": "RentalBench",
+  "version": "1.0.0",
+  "description": "Manage inventory, customers, rental orders and returns across your RentalBench locations.",
+  "author": {
+    "name": "Applicodo SRL"
+  },
+  "homepage": "https://app.rentalbench.com/docs/integrations/claude",
+  "privacyPolicyUrl": "https://app.rentalbench.com/docs/integrations/claude-privacy",
+  "repository": "https://github.com/cyupa/rentalbench-claude-plugin",
+  "keywords": ["rental", "inventory", "orders", "customers", "locations"]
+}
